@@ -1,0 +1,2 @@
+Session support for Tornado Framework works within Tornado IOLoop. 
+For session store Redis Async client brukva used.
